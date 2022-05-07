@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93d600db-a1d5-4e03-bd9b-2d45a3bea23c": {
+      "ProjectGuid": "93d600db-a1d5-4e03-bd9b-2d45a3bea23c",
+      "DisplayName": "OS_File_System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

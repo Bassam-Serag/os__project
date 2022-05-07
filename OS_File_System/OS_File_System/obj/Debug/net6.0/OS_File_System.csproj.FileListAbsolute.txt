@@ -1,0 +1,15 @@
+E:\OS_File_System\OS_File_System\bin\Debug\net6.0\OS_File_System.exe
+E:\OS_File_System\OS_File_System\bin\Debug\net6.0\OS_File_System.deps.json
+E:\OS_File_System\OS_File_System\bin\Debug\net6.0\OS_File_System.runtimeconfig.json
+E:\OS_File_System\OS_File_System\bin\Debug\net6.0\OS_File_System.dll
+E:\OS_File_System\OS_File_System\bin\Debug\net6.0\ref\OS_File_System.dll
+E:\OS_File_System\OS_File_System\bin\Debug\net6.0\OS_File_System.pdb
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.csproj.AssemblyReference.cache
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.AssemblyInfoInputs.cache
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.AssemblyInfo.cs
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.csproj.CoreCompileInputs.cache
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.dll
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\ref\OS_File_System.dll
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.pdb
+E:\OS_File_System\OS_File_System\obj\Debug\net6.0\OS_File_System.genruntimeconfig.cache
